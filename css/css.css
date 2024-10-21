@@ -6,10 +6,10 @@
     background: yellow;
 }
 .box2{
-    background: rgb(77, 12, 142);
+    background: rgb(226, 215, 238);
 }
 .box3{
-    background: blue;
+    background: rgb(150, 150, 181);
 }
 .g-linen{
     height: 100px;
@@ -17,6 +17,7 @@
 footer {
     text-align: center;
     padding: 3px;
-    background-color: rgb(11, 22, 175);
+    background-color: rgb(111, 170, 93);
     color: white;
   }
+  
